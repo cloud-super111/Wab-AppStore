@@ -1,0 +1,8 @@
+{
+  "name": "Web App Store",
+  "description": "A world-class App Store clone with AI-powered discovery, featuring fluid iOS-inspired animations and a sleek modern design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
